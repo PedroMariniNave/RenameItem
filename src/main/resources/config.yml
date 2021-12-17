@@ -1,0 +1,23 @@
+Settings:
+  command: renameitem
+  aliases: []
+  admin-permission: 'renameitem.admin'
+  permission-message: '&6&lVoltz&f&lMC &8&l➜ &cVocê não possui permissão para executar esse comando!'
+  character-limit: 32
+
+Messages:
+  command-usage: '&6&lVoltz&f&lMC &8&l➜ &cUso correto: /renameitem give <jogador> <quantia>'
+  offline-player: '&6&lVoltz&f&lMC &8&l➜ &cEsse jogador está offline!'
+  invalid-amount: '&6&lVoltz&f&lMC &8&l➜ &cA quantia informada é inválida!'
+  character-limit: '&6&lVoltz&f&lMC &8&l➜ &cO nome não pode ultrapassar de 32 caracteres!'
+  renaming-item:
+    - '&6&lVoltz&f&lMC &8&l➜ &7Digite no chat o nome que deseja!'
+    - '&6&lVoltz&f&lMC &8&l➜ &7Lembre-se que você pode usar cores!'
+
+Item:
+  type: NAME_TAG
+  glow: true
+  name: '&aRenomeador de Item'
+  lore:
+    - '&7Renomeie seus itens'
+    - '&7como quiser!'

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RenameItem">
+    <output-path>$USER_HOME$/Desktop/Testar/plugins</output-path>
+    <root id="archive" name="RenameItem.jar">
+      <element id="module-output" name="RenameItem [Rankup Overpower]" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/item-nbt-api-plugin-2.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

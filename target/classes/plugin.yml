@@ -1,0 +1,5 @@
+name: RenameItem
+description: Only a simple rename item plugin.
+version: 1.0
+api-version: 1.16
+main: com.zpedroo.renameitem.RenameItem
